@@ -16,6 +16,8 @@ token.json
 # MacOS
 .DS_Store
 
+.idea
+
 # Logs
 npm-debug.log*
 yarn-debug.log*
