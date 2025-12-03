@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "esnext",
+    "lib": ["es5", "es6"],
+    "strict": true,
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "rootDir": "src",
+    "allowJs": false,
+    "removeComments": true
+  },
+  "include": ["src"]
+}
